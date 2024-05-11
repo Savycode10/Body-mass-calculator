@@ -1,4 +1,4 @@
-# SAVY
+# Body mass Calculator
 Make sure your height is in Metres
-Also Make sure your Weight is in Kilogram
+Also, Make sure your Weight is in Kilogram
 
